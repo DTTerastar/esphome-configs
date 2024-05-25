@@ -26,10 +26,7 @@ api:
 ota:
 
 mdns:
-  disabled: false
-
-web_server:
-  port: 80
+  disabled: true
 
 wifi:
   ap: {}
